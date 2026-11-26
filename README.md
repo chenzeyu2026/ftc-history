@@ -36,13 +36,11 @@ git clone https://github.com/chenzeyu2026/ftc-history.git
 
 ## 引用格式
 
-作者字段目前以 GitHub 帐号 `chenzeyu2026` 占位；如用于正式发表，请替换为真实署名。
-
 **BibTeX**
 
 ```bibtex
 @misc{ftc_history_2026,
-  author       = {{chenzeyu2026}},
+  author       = {陈泽宇},
   title        = {d 与 ∫ 的四次改义：牛顿-莱布尼兹公式的数学史},
   year         = {2026},
   month        = nov,
@@ -54,21 +52,21 @@ git clone https://github.com/chenzeyu2026/ftc-history.git
 **GB/T 7714—2015**
 
 ```text
-chenzeyu2026. d 与 ∫ 的四次改义: 牛顿-莱布尼兹公式的数学史[EB/OL]. (2026-11)[2026-11-26].
+陈泽宇. d 与 ∫ 的四次改义: 牛顿-莱布尼兹公式的数学史[EB/OL]. (2026-11)[2026-11-26].
 https://github.com/chenzeyu2026/ftc-history.
 ```
 
 **APA 7**
 
 ```text
-chenzeyu2026. (2026). d 与 ∫ 的四次改义：牛顿-莱布尼兹公式的数学史 [Web article]. GitHub.
+陈泽宇. (2026). d 与 ∫ 的四次改义：牛顿-莱布尼兹公式的数学史 [Web article]. GitHub.
 https://github.com/chenzeyu2026/ftc-history
 ```
 
 **Chicago（注释体）**
 
 ```text
-chenzeyu2026, "d 与 ∫ 的四次改义：牛顿-莱布尼兹公式的数学史," GitHub, November 2026,
+陈泽宇, "d 与 ∫ 的四次改义：牛顿-莱布尼兹公式的数学史," GitHub, November 2026,
 https://github.com/chenzeyu2026/ftc-history.
 ```
 
